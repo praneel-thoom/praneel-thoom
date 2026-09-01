@@ -8,7 +8,7 @@ Based in Raleigh, NC and Atlanta, GA.
 
 ## What I'm working on
 
-- End-to-end data pipelines (Lichess → Supabase → dbt → Tableau)
+- End-to-end data pipelines
 - Learning and building in the data engineering space
 
 ## Get in touch
