@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at Georgia Tech with threads in **Software Design & Distributed Systems** and **Signal and Information Processing**.
 
-I'm interested in **data engineering**, **data science**/**data analytics**, and **applied machine learning**.
+I'm interested in **data engineering**, **data science**, **data analytics**, and **applied machine learning**.
 
 Based in Raleigh, NC and Atlanta, GA.
 
