@@ -4,7 +4,7 @@ I'm a Computer Engineering student at Georgia Tech with threads in **Software De
 
 I'm interested in **data engineering**, **data science**, **data analytics**, and **applied machine learning**.
 
-Based in Raleigh, NC and Atlanta, GA.
+Based in Cary, NC and Atlanta, GA.
 
 ## Get in touch
 
