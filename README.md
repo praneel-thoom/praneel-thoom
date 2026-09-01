@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Praneel Thoom 👋
 
-<!--
-**praneel-thoom/praneel-thoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Georgia Tech with threads in **Software Design & Distributed Systems** and **Signal and Information Processing**.
 
-Here are some ideas to get you started:
+I'm interested in **data engineering**, **data science**/**data analytics**, and **applied machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Raleigh, NC and Atlanta, GA.
+
+## What I'm working on
+
+- End-to-end data pipelines (Lichess → Supabase → dbt → Tableau)
+- Learning and building in the data engineering space
+
+## Get in touch
+
+- praneelthoom@gmail.com
+- [github.com/praneel-thoom](https://github.com/praneel-thoom)
