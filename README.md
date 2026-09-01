@@ -13,5 +13,5 @@ Based in Raleigh, NC and Atlanta, GA.
 
 ## Get in touch
 
-- praneelthoom@gmail.com
+- praneelthoom@gmail.com | pthoom6@gatech.edu
 - [github.com/praneel-thoom](https://github.com/praneel-thoom)
