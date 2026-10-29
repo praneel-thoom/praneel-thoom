@@ -1,3 +1,5 @@
+## Hi, I'm Praneel Thoom
+
 I'm a Computer Engineering student at Georgia Tech (class of 2028, concentrating in Distributed Systems and Software Design). I build data and ML systems end to end, from the ingestion layer to the dashboard someone actually uses, and I care about checking whether a result is real before I report it.
 
 ### What I'm working on
