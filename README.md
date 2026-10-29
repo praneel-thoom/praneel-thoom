@@ -19,7 +19,7 @@ I'm a Computer Engineering student at Georgia Tech (class of 2028, concentrating
 
 | | |
 | - | - |
-| [polymarket-weather-pipeline](https://github.com/praneel-thoom/polymarket-weather-pipeline) | Python producers into Kafka, Spark Structured Streaming with watermarked joins into a Delta Lake medallion on S3, dbt on DuckDB, and a Streamlit dashboard. Backfill scripts feed the same Bronze tables, so live and historical data are treated identically. |
+| [polymarket-weather-pipeline](https://github.com/praneel-thoom/polymarket-weather-pipeline) | Python producers into Kafka, Spark Structured Streaming with watermarked joins into a Delta Lake medallion on S3, dbt on DuckDB, and a Streamlit dashboard. |
 | [chess-opening-intel](https://github.com/praneel-thoom/chess-opening-intel) | A dbt star schema over 1M+ Lichess games from 4,563 players, with 8 automated data tests and a dashboard that flags openings whose win rates only look good at tiny sample sizes. |
 | [noesis-billing-architecture](https://github.com/praneel-thoom/noesis-billing-architecture) | How Noesis billing is designed: a signature-verified Stripe webhook pipeline with exactly-once event processing over a dedup table, subscription lifecycle handling across three pricing tiers, and dunning for failed payments.|
 | [FirstWave](https://github.com/vaibhavw30/FirstWave) | Predictive EMS staging: forecast where 911 calls will cluster in the next hour and pre-position idle ambulances. I led the data pipeline and demand model. On 25,200 calls from a held-out year, calls reached within 8 minutes rose from 56.7% to 66.8%. |
