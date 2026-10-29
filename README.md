@@ -4,7 +4,7 @@ I'm a Computer Engineering student at Georgia Tech (class of 2028, concentrating
 
 ### What I'm working on
 
-- **GT BME research:** Utilizing high-performance computing clusters to build, train, and benchmark diffusion models for inverse problem solving in microscopy; targeting high-fidelity image reconstruction from sparsely-sampled scans.
+- **GT & Emory BME research:** Utilizing high-performance computing clusters to build, train, and benchmark diffusion models for inverse problem solving in microscopy; targeting high-fidelity image reconstruction from sparsely-sampled scans.
 - **ISyE Directed Research Project (DRP):** day-ahead hourly load forecasting for the PJM Dominion market, comparing a Transformer, XGBoost, and a seasonal baseline on six years of hourly data.
 - **Before this:** co-founded Noesis, a pre-submission peer review tool for academic researchers, and designed its [Stripe billing backend](https://github.com/praneel-thoom/noesis-billing-architecture) with signature-verified webhooks and exactly-once event processing.
 
